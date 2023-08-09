@@ -2,6 +2,8 @@
 
 Step-by-step guide on deploying a natural language processing machine learning model to the Azure platform and consuming it using Power Automate and Power Apps to generate text and give you creative writing ideas.
 
+See dedicated instructions and a [step by step walkthrough](https://techcommunity.microsoft.com/t5/educator-developer-blog/exploring-the-synergy-between-web-development-and-artificial/ba-p/3894049)
+
 <p align ="center"><img src="./Images/application-ui.png">
 
 ## Example
